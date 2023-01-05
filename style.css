@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(222, 219, 219);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.title h2{
+    margin-top: 120px;
+    margin-left: 170px;
+    width: 650px;
+    word-spacing: 2px;
+    letter-spacing: 2px;
+    font-size: 40px;
+}
+.name h1{
+    font-size: 30px;
+    margin-left: 100px;
+    margin-top: 75px;
+}
+.info{
+    word-spacing: 1px;
+    letter-spacing: 1px;
+    margin-top: 100px;
+    margin-left: 800px;
+    width: 550px;
+}
+.info h1{
+    font-size: 40px;
+}
+.img img{
+    filter: blur(3px);
+    position: absolute;
+    margin-top: -450px;
+    margin-left: 75px;
+}
